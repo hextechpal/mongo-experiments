@@ -25,7 +25,7 @@ const (
 	databaseName   = "mongo-experiments"
 	collectionName = "tokens"
 	batches        = 1
-	totalDocuments = 100_000
+	totalDocuments = 50
 
 	expireIndex = "expires_on"
 )
